@@ -13,6 +13,8 @@ nav {
 nav h1{
   font-family: 'Crimson Text', serif;
   font-size: 30px;
+  color: crimson;
+  
 }
 nav .onglets{
   margin-top: 35px;
